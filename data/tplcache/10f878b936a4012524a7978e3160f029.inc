@@ -1,0 +1,1 @@
+<li><img src="[field:picname/]" class="case_tp" width="233px" height="257px"/><span><img src="/skin/images/jia.png" /><a href="[field:arcurl/]">MORE</a></span></li>
